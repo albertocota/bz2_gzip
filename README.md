@@ -1,5 +1,5 @@
-###GZIP & BZ2 reader###
-------
+GZIP & BZ2 reader
+-----------------
 To generate zip files using the reader.compressed modules
 
 Change directory into reader module
